@@ -1,0 +1,11 @@
+show_id,type,title,director,cast,country,date_added,release_year,rating,duration,listed_in,description
+s1,Movie,The Social Dilemma,Jeff Orlowski,"Tristan Harris, Aza Raskin",United States,"September 9, 2020",2020,PG-13,94 min,"Documentaries, Social & Cultural Docs",Explores the dangerous human impact of social networking.
+s2,TV Show,Stranger Things,The Duffer Brothers,"Millie Bobby Brown, Finn Wolfhard",United States,"July 15, 2016",2016,TV-14,3 Seasons,"Sci-Fi & Fantasy, Teen TV Shows","When a young boy vanishes, a small town uncovers a mystery."
+s3,Movie,Inception,Christopher Nolan,"Leonardo DiCaprio, Joseph Gordon-Levitt",United States,"January 1, 2020",2010,PG-13,148 min,"Action & Adventure, Sci-Fi & Fantasy",A thief who steals corporate secrets through dream-sharing.
+s4,Movie,Bird Box,Susanne Bier,"Sandra Bullock, Trevante Rhodes",United States,"December 21, 2018",2018,R,124 min,"Thrillers, Sci-Fi & Fantasy",A woman and two children navigate a world decimated by a force.
+s5,TV Show,The Crown,Peter Morgan,"Olivia Colman, Tobias Menzies",United Kingdom,"November 4, 2016",2016,TV-MA,4 Seasons,"British TV Shows, TV Dramas",Follows the political rivalries and romance of Queen Elizabeth II.
+s6,Movie,Extraction,Sam Hargrave,"Chris Hemsworth, Rudhraksh Jaiswal",United States,"April 24, 2020",2020,R,117 min,"Action & Adventure, Crime Movies",A black ops mercenary's mission goes awry in Bangladesh.
+s7,TV Show,Dark,Baran bo Odar,"Louis Hofmann, Lisa Vicari",Germany,"December 1, 2017",2017,TV-MA,3 Seasons,"German TV Shows, TV Mysteries","A family saga with a supernatural twist, set in a German town."
+s8,Movie,Enola Holmes,Harry Bradbeer,"Millie Bobby Brown, Henry Cavill",United Kingdom,"September 23, 2020",2020,PG-13,123 min,"British Movies, Mysteries",Teen detective Enola Holmes investigates her mother's disappearance.
+s9,Movie,The Irishman,Martin Scorsese,"Robert De Niro, Al Pacino",United States,"November 27, 2019",2019,R,209 min,"Crime Movies, Dramas",An aging hitman recalls his past to recount his involvement in crime.
+s10,TV Show,Money Heist,Álex Pina,"Úrsula Corberó, Álvaro Morte",Spain,"May 2, 2017",2017,TV-MA,4 Seasons,"Crime TV Shows, Spanish-Language TV Shows",A criminal mastermind plans the biggest heist in recorded history.
